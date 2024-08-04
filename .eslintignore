@@ -1,0 +1,15 @@
+build
+
+node_modules
+
+.idea
+
+.vscode
+
+**/.DS_Store
+
+reset.d.ts
+
+vite.config.ts
+
+postcss.config.js
