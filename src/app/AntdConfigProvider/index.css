@@ -1,0 +1,7 @@
+/** Переопределение глобальных стилей для компонентов antd,
+* которые невозможно задать через AntdConfigProvider
+*/
+
+.ant-menu-inline-collapsed-tooltip a {
+    color: var(--color-black);
+}
